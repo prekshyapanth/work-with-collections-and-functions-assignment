@@ -120,6 +120,75 @@ print(list_names[:4])
 
 #a. Create a set of at least 5 elements and print it.
 
+a= {1,2,3,4,5}
+print(a)
+
 #14. Set Intersection
 
 #a. Create two sets with some common elements. Find and print their intersection.
+
+one_set= {1,2,3,4,5}
+two_set= {4,5,6,7,8}
+
+intersection_result= one_set.intersection(two_set)
+print(intersection_result)
+
+#15. 15. Set Union
+
+#a. Print the union of the same two sets.
+
+union_result= one_set.union(two_set)
+print(union_result)
+
+
+#Part 4: Functions
+#16. Multiply List Elements
+
+# a. Define a function that takes a list of numbers and returns the product of all numbers.
+
+
+def list_numbers(numbers):  #define function with list of number
+    product = 1
+    for n in numbers:
+        product *= n
+    return product
+
+print(list_numbers([2,3,4,5,5]))
+
+
+#17. Statistics Function
+
+#a. Generate a list of test scores.
+#b. Write a function that returns the minimum, maximum, and average of the list.
+
+def test_scores(scores):
+    test= 1
+    for result in scores:
+        print (result)
+
+
+
+test_scores([min(85.5,26.2,15)])
+test_scores([max(85.5,26.2,15)])
+### average
+
+
+#18. Check Range Membership
+
+#a. Write a function that checks if a given number is within a specified range.
+
+def given_number(num):
+    if num in range(0,6):
+        print( f"True:The given number is in range")
+    else:
+        print(f"False: The given number is not in range")
+
+given_number(5)
+given_number(10)
+
+
+#19. Dog Speed Analyzer
+
+#a. Create a nested list, each item containing a dog breed and its max running speed (e.g., ["Greyhound", 45]).
+#b. Write a function to determine which dog breed is the fastest and which is the slowest.
+
