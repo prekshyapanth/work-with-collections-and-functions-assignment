@@ -1,3 +1,5 @@
+
+
 # Part 1: Tuples
 # 1.Create and Access
 # a.Define a tuple with at least 5 numerical values.

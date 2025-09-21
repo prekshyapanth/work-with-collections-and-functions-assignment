@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f7d5854-fe1b-49b1-a76e-a1f2b6b28754" name="Changes" comment="Complete the assignment 9 through 18">
+    <list default="true" id="1f7d5854-fe1b-49b1-a76e-a1f2b6b28754" name="Changes" comment="Completed all assignment need to write the comments now">
+      <change afterPath="$PROJECT_DIR$/Lab2- Python Basics- Working with collections and functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
     </list>
@@ -37,13 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Tuples.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Tuples.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Prekshya/PycharmProjects/Part1- Tuples"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Prekshya\PycharmProjects\Part1- Tuples" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758318244975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed all assignment need to write the comments now">
+      <option name="closed" value="true" />
+      <created>1758322646800</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758322646800</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,22 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code is still being worked upon" />
     <MESSAGE value="Complete the assignment 9 through 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete the assignment 9 through 18" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tuples.py</url>
-          <line>49</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tuples.py</url>
-          <line>168</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Completed all assignment need to write the comments now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed all assignment need to write the comments now" />
   </component>
 </project>
